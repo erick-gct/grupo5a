@@ -1,0 +1,57 @@
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\CONDUCTOR.exe.config
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\CONDUCTOR.exe
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\CONDUCTOR.pdb
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Entidad.dll
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Negocio.dll
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Datos.dll
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Entidad.pdb
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Negocio.pdb
+C:\Users\kenii\source\repos\CONDUCTOR\bin\Debug\Capa_Datos.pdb
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.AssemblyReference.cache
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.Properties.Resources.resources
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.RegistroCO.resources
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.GenerateResource.cache
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CoreCompileInputs.cache
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CopyComplete
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.exe
+C:\Users\kenii\source\repos\CONDUCTOR\obj\Debug\CONDUCTOR.pdb
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\CONDUCTOR.exe.config
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\CONDUCTOR.exe
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\CONDUCTOR.pdb
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Entidad.dll
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Negocio.dll
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Datos.dll
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Entidad.pdb
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Negocio.pdb
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\bin\Debug\Capa_Datos.pdb
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.AssemblyReference.cache
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.Properties.Resources.resources
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.RegistroCO.resources
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.GenerateResource.cache
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CoreCompileInputs.cache
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CopyComplete
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.exe
+C:\Users\tomva\OneDrive\Documents\PROJECTS\UNIVERSIDAD\PROYECTO GRUPO D\src\CONDUCTOR\obj\Debug\CONDUCTOR.pdb
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\CONDUCTOR.exe.config
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\CONDUCTOR.exe
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\CONDUCTOR.pdb
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Entidad.dll
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Negocio.dll
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Datos.dll
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Entidad.pdb
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Negocio.pdb
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\bin\Debug\Capa_Datos.pdb
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.Properties.Resources.resources
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.RegistroCO.resources
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.csproj.CopyComplete
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.exe
+C:\Users\erick\Desktop\PROYECTO SEGUNDO PARCIAL\project-D\src\CONDUCTOR\obj\Debug\CONDUCTOR.pdb
